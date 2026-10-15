@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My projects
+### Cyber Security Base 2025: Project I
+Demonstrates some cyber security flaws of different types in a Django web application and shows how to mitigate them.\
+[Source code](https://github.com/serbrio/mooc_csb_2025)
+
+### English spelling web application
+Web application for training your English spelling skills: listen and type words.\
+Operates results separately for every user utilizing Flask and SQLite.\
+[Source code](https://github.com/serbrio/english-spelling-test-webapp)\
+[Try how it works](https://english-spelling-test-webapp.onrender.com)
