@@ -28,3 +28,11 @@ Operates results separately for every user utilizing Flask and SQLite.\
 ### The Way Game
 Pygame based arcade, which idea is to find your way out of a maze.\
 [Source code](https://github.com/serbrio/The-Way-Game)
+
+### Bulls and Cows
+Command line (bash) version of the game.\
+[Source code](https://github.com/serbrio/bulls-and-cows-bash)\
+To run in Docker container:
+```
+docker run -ti serbrio/byki-i-korovy
+```
