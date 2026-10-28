@@ -23,7 +23,7 @@ Demonstrates some cyber security flaws of different types in a Django web applic
 Web application for training your English spelling skills: listen and type words.\
 Operates results separately for every user utilizing Flask and SQLite.\
 [Source code](https://github.com/serbrio/english-spelling-test-webapp)\
-[Try how it works](https://english-spelling-test-webapp.onrender.com)
+[Try how it works](https://english-spelling-test-webapp.onrender.com) (create new account or use credentials: test/test)
 
 ### The Way Game
 Pygame based arcade, which idea is to find your way out of a maze.\
